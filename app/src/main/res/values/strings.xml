@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StockMarket</string>
+    <string name="searchbar">Search ...</string>
+</resources>
